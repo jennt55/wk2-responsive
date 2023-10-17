@@ -58,7 +58,8 @@ a:visited {
   font-size: 12px;
 }
 img {
-  max-width: 200px;
+  max-width: 100%;
+  height: auto;
   margin: 10px;
 }
 .imFrom {
